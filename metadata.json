@@ -15,7 +15,7 @@
         "Title": "Development Paused Due To Hardware Issue",
         "Description": "Development of this project will be paused for the next few weeks",
         "ImageURL": [],
-        "Important:" : true,
+        "Important": true,
         "Author": "morieeattonkatsu",
         "Date": "1781300460"
     }
