@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id": "force-close-issue.md",
+        "Title": "Force Close Issue",
+        "Description": "We’re aware that many of you have been experiencing force closes when starting music or while it’s buffering.\nThe issue was related to the internal playback engine, and it has now been fixed.",
+        "ImageURL": [],
+        "Important": true,
+        "Author": "morieeattonkatsu",
+        "Date": "1790313240"
+    }
+]
